@@ -8,3 +8,5 @@ Berikut detail algoritma yang sudah saya explore :
 - Fuzzy Logic
 - Genetic
 - K-Medoids Clustering
+- K-Means Clustering
+- Particle Swarm Optimization
