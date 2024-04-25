@@ -10,3 +10,4 @@ Berikut detail algoritma yang sudah saya explore :
 - K-Medoids Clustering
 - K-Means Clustering
 - Particle Swarm Optimization
+- Ant Colony (ACO)
